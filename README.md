@@ -11,7 +11,9 @@ Abaixo os scripts responsáveis pelo funcionamento geral:
 
 * **Script - [Bot_whats_geral](https://github.com/SEPLAN-RN/BOT-Whats-e-Relatorios-Contratos/blob/main/Bot_whats_geral.py):** O script que será executado para iniciar **todo o funcionamento** do bot, ele é responsável por gerenciar todo o **loop de funcionamento**, chamando os outros scripts sempre que necessário. Nele existe uma estrutura em loop que procura por **novas mensagens em suas conversas**, caso encontre uma nova mensagem ele irá ler para depois comparar com os comandos já existentes, caso aquela mensagem seja um comando será chamado um dos métodos da **classe_comandos** referente a aquele comando que foi dado.
 
-  
+
+
+ ![imagem](https://github.com/Carlos1999/Bot_Whats_Relatorios_e_Notificacoes/blob/main/Relatorios/figuras/WhatsApp%20-%20Opera%202022-02-04%2014-26-31.gif)
 
 ### :notebook_with_decorative_cover: Documentação e Tutoriais:
 
